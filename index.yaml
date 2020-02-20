@@ -3,9 +3,9 @@ entries:
   book-store:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-10-19T00:14:59.061482966+05:30
+    created: "2020-02-20T14:33:28.226755473+05:30"
     description: Helm chart for book store application.
-    digest: e58cffb67c3fd8efb9810b4c11f8f364a8c146019363b7d27a21f6c0d61b2772
+    digest: 414485b45a6403ccc39c941e8edc5a9771e5835e8b4a9448a8b31685f4deb993
     keywords:
     - bookstore
     maintainers:
@@ -13,6 +13,6 @@ entries:
       name: akash
     name: book-store
     urls:
-    - https://github.com/akash-gautam/helmcharts.git/book-store-0.1.0.tgz
+    - https://akash-gautam.github.io/helmcharts/book-store-0.1.0.tgz
     version: 0.1.0
-generated: 2019-10-19T00:14:59.061089436+05:30
+generated: "2020-02-20T14:33:28.226178652+05:30"
