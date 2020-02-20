@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  book-store:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-02-20T14:01:19.031442526+05:30"
+    description: Helm chart for book store application.
+    digest: f5b2884386fcb8c83bfe941c30f8ac1550e997a04180d7f4f9246367c4e8501b
+    keywords:
+    - bookstore
+    maintainers:
+    - email: akash.gautam@velotio.com
+      name: akash
+    name: book-store
+    urls:
+    - https://akash-gautam.github.io/book-store/book-store-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-20T14:01:19.028782806+05:30"
