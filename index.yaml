@@ -9,10 +9,10 @@ entries:
     keywords:
     - bookstore
     maintainers:
-    - email: akash.gautam@velotio.com
-      name: akash
+    - email: csemanit2015@gmail.com
+      name: arun
     name: book-store
     urls:
-    - https://akash-gautam.github.io/helmcharts/book-store-0.1.0.tgz
+    - https://github.com/arunvel1988/helmcharts
     version: 0.1.0
 generated: "2020-02-20T14:33:28.226178652+05:30"
